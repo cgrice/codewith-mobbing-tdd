@@ -16,3 +16,9 @@ Test-Driven-Development. For each bit of functionality, we will:
 This loop is known as Red-Green-Refactor.
 
 The idea is that by writing tests first, we will naturally produce more testable and decoupled code. It will also hopefully help as a design tool as we build our vending machine!
+
+## Previous Sessions
+
+You can sneak a peek at previous attemps at this here. Please fork / open a PR if you run through this and add your attempt to the list!
+
+* [March 11th, 2021](https://github.com/cgrice/codewith-mobbing-tdd/tree/mar-11-2021)
